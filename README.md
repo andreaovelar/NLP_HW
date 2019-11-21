@@ -1,7 +1,7 @@
 
 
 # NLP_HW- HW 8
-# NLP
+# Natural Language Processing 
 
 ### Sentiment Analysis
 #### 1. Use the newsapi to pull the latest news articles for Bitcoin and Ethereum and create a DataFrame of sentiment scores for each coin.
